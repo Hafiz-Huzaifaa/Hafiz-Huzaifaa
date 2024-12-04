@@ -16,6 +16,6 @@ Building skills to contribute to open-source projects
 To become a skilled full-stack developer and create solutions that enhance user experiences.
 
 **📫 Connect With Me**
-LinkedIn Profile
-Email
+**LinkedIn:** https://www.linkedin.com/in/hafiz-muhammad-huzaifa-847799141/
+**Email:** hhuzaifa80@gmail.com
 Let’s collaborate and create something amazing together!
